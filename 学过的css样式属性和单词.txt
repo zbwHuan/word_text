@@ -1,0 +1,42 @@
+字体倾斜：font-style:iatlic
+字体：font-family:
+字号：font-size:
+字体粗细：font-weight:
+行高：line-height:
+文本居中左右：text-align:center
+文本颜色：color或者text-color
+首行缩进：text-indent
+文本加上中下划线以及取消划线：text-decoration:overline  line-through underline none
+文本倾斜加粗下划线中划线8标签：i em   b strong  u ins s del
+上下左右宽和高：top bottom left right wight height
+转化行内块和块级元素：display:inline block   display: block
+文本框密码框：input type="text"   password
+单选按钮和多选框和默认选择：radio  checkbox  checked
+普通按钮提交和清空按钮：button  submit reset
+下拉框下拉组和下拉项和默认选择：select optgroup  option selected 
+文本域：<textarea> </textarea>
+表单域和点击文字表单获取焦点：form   label for
+去除轮廓线：outline：none；
+插入表格表格标题首行和行与单元格：table caption th tr td
+去除单元格与单元格间距：border-spacing
+表格与单元格1px边框：border-cellapse:cellapse;
+无序有序与自定义列表：ul li  ol  li   dl dt dd
+列表去除小圆点：list-style：none；
+边框三属性和属性值：border-width style color    border:1px solid red;
+边框三样式：solid dashed  dotted
+边框圆角：border-radius
+鼠标操作4伪类：:link :visited :hover :active
+背景设置：backgroud-color image repeat position-x-y
+内外边距：margin  padding
+浮动：float
+溢出隐藏：overflow:hidden;
+解决塌陷：overflow:hidden; border-top:1px;
+占位隐藏：visibility:hidden;
+不占位隐藏：dispaly:hidden;
+相对定位与绝对定位：position:relative absolute;
+强制换行：word-break:break-all;
+强制不换行：white-space:nowrap;
+权重最高级：！important;
+
+
+
